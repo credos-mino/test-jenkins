@@ -11,6 +11,7 @@ public class JenkinsTestApplication {
 		System.out.println("Hello World!");
 		System.out.println("TEST1!");
 		System.out.println("TEST2!");
+		System.out.println("TEST3!");
 	}
 
 }
